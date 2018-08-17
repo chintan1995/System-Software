@@ -1,0 +1,9 @@
+public static void main ( String args [ ] )
+{
+int rno = 09 ;
+String name = "Chintan" ;
+char gender = 'M' ;
+float hieght = 5.9 ;
+double percentage = 84.81 ;
+String class = "MCASem3 ;
+}
